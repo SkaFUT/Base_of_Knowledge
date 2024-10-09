@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "c37667d031677400",
+    "type": "split",
+    "children": [
+      {
+        "id": "855fe4869c53d971",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e278cf443abf7762",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3d39255ab94d3e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "14251489440f14c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d93a134c6819bd2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "102ae00240b50155",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "015983c2c015d23e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4e902bc655e66687",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff28c658d7f35f4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f6aa4ec3cdb2c36",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "112a2112f4c0fd8c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d869d1757241a533",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "01e34538d267f30d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "d93a134c6819bd2a",
+  "lastOpenFiles": [
+    "Без названия.canvas",
+    "07_hypertext.md",
+    "03_menu.md",
+    "06_list.md",
+    "12_LaTeX.md",
+    "13_practice.md",
+    "05_practice.md",
+    "01_name.md"
+  ]
+}
