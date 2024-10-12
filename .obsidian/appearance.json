@@ -1,4 +1,8 @@
 {
   "cssTheme": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "JetBrains Mono",
+  "baseFontSize": 23,
+  "baseFontSizeAction": true
 }
