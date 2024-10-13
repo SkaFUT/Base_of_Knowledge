@@ -1,4 +1,6 @@
 # Тема: Теги
+>_[**Справочник** со всеми элемннтами](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)_
+
 ### 1. `<h1></h1>` Заголовки
 _**Пример:**_
 ```HTML
