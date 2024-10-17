@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003_html/01_introduction.md",
+                "file": "002_git/03_gitComands.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003_html/01_introduction.md",
+                "file": "002_git/03_gitComands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003_html/01_introduction.md",
+                "file": "002_git/03_gitComands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003_html/01_introduction.md"
+                "file": "002_git/03_gitComands.md"
               }
             }
           }
@@ -147,8 +147,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d6717da0f5f27acd",
+  "active": "3f0085eb76c4f114",
   "lastOpenFiles": [
+    "002_git/clone_repos.jpg",
+    "002_git/github_SSH_enter.jpg.jpg",
+    "002_git/github_SSH.jpg",
+    "003_html/01_introduction.md",
     "001_markdown/02_separator.md",
     "003_html/02_HTMLtermins.md",
     "003_html/03_Tags.md",
