@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        div {
+            border: solid;
+            border-color: black;
+        }
+
+        .rectangle-first,
+        .rectangle-second {
+            width: 200px;
+            height: 100px;
+
+        }
+
+        .rectangle-first {
+            left: 150px;
+            position: static;
+        }
+
+        .rectangle-second {
+            top: 25px;
+            position: absolute;
+        }
+
+        .first-parent {
+            top: 50px;
+            position: relative;
+            border-color: brown;
+        }
+
+        .second-parent {
+            top: 50px;
+            position: static;
+            border-color: blue;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="rectangle-first"></div>
+    <div class="first-parent">
+        <div class="second-parent">
+            <div class="rectangle-second"></div>
+        </div>
+    </div>
+</body>
+
+</html>
