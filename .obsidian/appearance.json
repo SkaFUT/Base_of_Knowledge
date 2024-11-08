@@ -1,7 +1,7 @@
 {
   "cssTheme": "",
   "theme": "obsidian",
-  "interfaceFontFamily": "",
+  "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",
   "baseFontSize": 23,
   "baseFontSizeAction": true
