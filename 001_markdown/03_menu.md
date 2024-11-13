@@ -42,6 +42,6 @@
 ## Глава 17: [Термины](/001_chapter/004_CSS/02_CSStermins.md)  
 ## Глава 18: [Селекторы](/001_chapter/004_CSS/03_CSSselector.md)
 ## Глава 18: [Форматирование](/001_chapter/004_CSS/04_CSSediting.md)
-# Введение в C#
+# [Введение в C\#](/001_chapter/005_C#/CSharp.md)
 ## Глава 19: Переменные
-
+# [Заметки](/001_chapter/notes/features.md)

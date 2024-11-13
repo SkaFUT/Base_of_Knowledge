@@ -5,13 +5,48 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "",
+      "query": "path:005_C#  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 7430088
+      }
+    },
+    {
+      "query": "path:001_markdown  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431518
+      }
+    },
+    {
+      "query": "path:002_git  ",
+      "color": {
+        "a": 1,
+        "rgb": 13394688
+      }
+    },
+    {
+      "query": "path:003_html  ",
+      "color": {
+        "a": 1,
+        "rgb": 16737792
+      }
+    },
+    {
+      "query": "path:004_CSS  ",
+      "color": {
+        "a": 1,
+        "rgb": 2649072
+      }
+    },
+    {
+      "query": "path:notes  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     }
   ],
@@ -25,6 +60,6 @@
   "repelStrength": 13.8541666666667,
   "linkStrength": 0.817708333333333,
   "linkDistance": 304,
-  "scale": 0.1846232622585874,
+  "scale": 0.32133638605036274,
   "close": false
 }
