@@ -145,4 +145,4 @@ Git это **распределённая** система управления 
 ### [A (Added)](./03_gitComands.md "git status Пункт 1.2")
 ### [M (Modify)](./03_gitComands.md "git status Пункт 1.1")
 ***
-[Оглавление](./../001_markdown/03_menu.md)
+[[GIT|Оглавление]]

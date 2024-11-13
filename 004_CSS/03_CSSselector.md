@@ -170,4 +170,4 @@ HTML файл
 ## [Псевдоэлементы](https://developer.mozilla.org/ru/docs/Web/CSS/Pseudo-elements)
 
 ***
-[Оглавление](./../001_markdown/03_menu.md)
+[[CSS|Оглавление]]
