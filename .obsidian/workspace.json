@@ -28,8 +28,8 @@
               "state": {
                 "file": "001_markdown/03_menu.md",
                 "mode": "preview",
-                "backlinks": true,
-                "source": false
+                "source": true,
+                "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
@@ -37,52 +37,37 @@
             }
           },
           {
-            "id": "6dbf01685c273af3",
+            "id": "316a96a990879c91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_markdown/09_table.md",
+                "file": "001_markdown/12_LaTeX.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
+                "source": true,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "09_table"
+              "title": "12_LaTeX"
             }
           },
           {
-            "id": "ffd74cd2a7632bc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001_markdown/MarkDown.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MarkDown"
-            }
-          },
-          {
-            "id": "76068c498804dbdc",
+            "id": "43c9d806810525f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "002_git/03_gitComands.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "03_gitComands"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,7 +86,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -138,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c239f87a7110821c",
@@ -149,36 +135,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d837e4786f138460",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "001_markdown/12_LaTeX.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Обратные ссылки для 12_LaTeX"
-            }
-          },
-          {
             "id": "19dacd0043205b87",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_markdown/12_LaTeX.md",
+                "file": "002_git/03_gitComands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 12_LaTeX"
+              "title": "Исходящие ссылки из 03_gitComands"
             }
           },
           {
@@ -188,7 +155,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Теги"
@@ -200,18 +169,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001_markdown/12_LaTeX.md"
+                "file": "002_git/03_gitComands.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 12_LaTeX"
+              "title": "Структура 03_gitComands"
+            }
+          },
+          {
+            "id": "7a12d7efc49d597e",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,47 +201,55 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "76068c498804dbdc",
+  "active": "43c9d806810525f8",
   "lastOpenFiles": [
     "002_git/02_termins.md",
-    "002_git/GIT.md",
-    "001_markdown/03_menu.md",
-    "001_markdown/MarkDown.md",
-    "001_markdown/04_formated_text.md",
-    "001_markdown/09_table.md",
-    "001_markdown/12_LaTeX.md",
-    "001_markdown/11_code.md",
-    "001_markdown/07_hypertext.md",
-    "001_markdown/01_name.md",
-    "001_markdown/02_separator.md",
-    "001_markdown/06_list.md",
     "002_git/01_start.md",
+    "001_markdown/03_menu.md",
+    "Алгоритм ШОРА.md",
+    "Тезисы.md",
+    "001_markdown/12_LaTeX.md",
+    "001_markdown/MarkDown.md",
+    "001_markdown/06_list.md",
+    "001_markdown/04_formated_text.md",
+    "001_markdown/11_code.md",
+    "002_git/GIT.md",
     "002_git/03_gitComands.md",
-    "003_html/01_introduction.md",
-    "003_html/02_HTMLtermins.md",
-    "004_CSS/02_CSStermins.md",
-    "004_CSS/04_CSSediting.md",
-    "004_CSS/CSS.md",
-    "004_CSS/03_CSSselector.md",
-    "004_CSS/01_introduction.md",
-    "003_html/04_template.md",
-    "003_html/HTML.md",
-    "003_html/03_Tags.md",
-    "005_C#/CSharp.md",
+    "notes/Надо узнать!!!!!.md",
+    "notes/Добавление.md",
     "notes/notes.md",
+    "notes/2024-10-09.md",
+    "notes/2024-10-06.md",
+    "notes/Ideas.md",
+    "notes/features.md",
+    "005_C#/02_math.md",
+    "005_C#/01_variable.md",
+    "004_CSS/04_CSSediting.md",
+    "004_CSS/03_CSSselector.md",
+    "004_CSS/02_CSStermins.md",
+    "004_CSS/01_introduction.md",
+    "002_git/path.jpg",
+    "002_git/PullRequest01.jpg",
+    "002_git/struct_of_commit.jpg",
+    "002_git/windows_gitBush.jpg",
+    "001_markdown/05_practice.md",
+    "002_git/clone_repos.jpg",
+    "001_markdown.rar",
+    "002_git/windows_gitBush_confirm.jpg",
+    "002_git/windows_gitBush_publicKey.jpg.jpg",
     "001_chapter/004_CSS",
     "001_chapter",
     "001_chapter/notes",
     "005_C#/Без названия",
     "001_chapter/003_html",
-    "002_git/clone_repos.jpg",
     "002_git/github_SSH_enter.jpg.jpg",
     "002_git/github_SSH.jpg",
     "001_chapter/002_git",
-    "002_git/git_work.png",
-    "002_git/struct_of_commit.jpg"
+    "002_git/git_work.png"
   ]
 }

@@ -3,6 +3,8 @@
   "theme": "obsidian",
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",
-  "baseFontSize": 23,
-  "baseFontSizeAction": true
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "showRibbon": true
 }

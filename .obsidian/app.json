@@ -1,1 +1,10 @@
-{}
+{
+  "livePreview": false,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "autoPairMarkdown": true,
+  "tabSize": 4,
+  "defaultViewMode": "preview",
+  "rightToLeft": false
+}
